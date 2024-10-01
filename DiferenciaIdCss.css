@@ -1,0 +1,31 @@
+#titulo{
+    font-size: 55px;
+    text-align: center;
+    color: red;
+}
+.texto{
+    margin-bottom: 70px;
+    text-align: center;
+    font-size: 30px;
+    font-family: fantasy;
+}
+.boton{
+    border-color: purple;
+    font-size: 210px;
+    width: 100px;
+    height: 500px;
+}
+#botonEnviar{
+    border-color: aqua;
+    background-color: rebeccapurple;
+    border-radius: 10px;
+    width: 500px;
+    height: 70px;
+    font-size: large;
+    font-family: cursive;
+}
+div{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
